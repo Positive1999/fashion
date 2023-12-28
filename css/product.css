@@ -1,0 +1,112 @@
+.title-products{
+    margin-top: 40px;
+    text-align: center;
+}
+.fa-seedling{
+    color: #32CD32;
+}
+#home, #men, #women, #kids {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.product {
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    border: 1px solid rgba(128, 128, 128, 0.192);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sale {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background: #ff0000;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    font-size: 12px;
+    padding: 9px 5px;
+    color: #fff;
+    z-index: 999;
+  }
+  
+  .product:hover img {
+    transform: scale(1.05);
+  }
+  
+  .product .product-name {
+    height: 30px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .product img {
+    width: 100%;
+    height:auto;
+    margin-bottom: 20px;
+  }
+  
+  .product .product-price {
+    color: red;
+  }
+  
+  .chuabtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .chuabtn .cartButton {
+    /* position: absolute; */
+    background-color: #f1f1f1;
+    color: rgb(39, 39, 39);
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: 100%;
+    padding: 8px 16px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* Media Query */
+  @media screen and (max-width: 420px) {
+    .product {
+      width: 100%;
+    }
+    .product img {
+      width: 100%;
+      height:auto;
+      margin-bottom: 20px;
+    }
+  }
+.fa-shopping-cart {
+    margin-right: 5px;
+    font-size: 30px;
+    transition: 0.5s;
+    transform: translateX(-30%);
+}
+span {
+    transition: 0.5s;
+}
+
+.cartButton.clicked .fa-shopping-cart {
+    transform: translateX(0%);
+}
+
+.color {
+    color: rgb(0, 175, 0);
+    font-weight: 500;
+}
