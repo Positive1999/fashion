@@ -1,0 +1,33 @@
+{
+    "quan": [
+        {
+            "sale" : "-0%",
+            "name": "Quần âu caro",
+            "image": "data/images/quan/quanAu/QA3.jpg",
+            "price": "300.000 đ",
+            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
+        },
+        {
+            "sale" : "-0%",
+            "name": "Quần âu kẻ trắng",
+            "image": "data/images/quan/quanAu/QA4.jpg",
+            "price": "300.000 đ",
+            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
+        },
+        {
+            "sale" : "-0%",
+            "name": "ÁO KHOÁC NHUNG - AKN12",
+            "image": "data/images/quan/quanAu/QA2.png",
+            "price": "300.000 đ",
+            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
+        },
+        {
+            "sale" : "-0%",
+            "name": "ÁO KHOÁC NHUNG - AKN12",
+            "image": "data/images/quan/quanAu/QA1.png",
+            "price": "300.000 đ",
+            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
+        }
+       
+    ]
+}

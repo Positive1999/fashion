@@ -63,13 +63,13 @@
 //   });
 
 
-fetch('data/women.json')
+fetch('data/quan.json')
   .then(response => response.json())
   .then(data => {
-    const listPro = document.getElementById('women');
+    const listPro = document.getElementById('quan');
     listPro.classList.add('container');
 
-    data.women.forEach(e => {
+    data.quan.forEach(e => {
       const listProducts = document.createElement('div');
       listProducts.classList.add('product', 'col-xs-12', 'col-sm-6', 'col-md-4', 'col-lg-3');
 

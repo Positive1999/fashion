@@ -1,10 +1,10 @@
-fetch('data/kids.json')
+fetch('data/giay.json')
   .then(response => response.json())
   .then(data => {
-    const listPro = document.getElementById('kids');
+    const listPro = document.getElementById('giay');
     listPro.classList.add('container');
 
-    data.kids.forEach(e => {
+    data.giay.forEach(e => {
       const listProducts = document.createElement('div');
       listProducts.classList.add('product', 'col-xs-12', 'col-sm-6', 'col-md-4', 'col-lg-3');
 
