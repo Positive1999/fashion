@@ -5,7 +5,7 @@
 .fa-seedling{
     color: #32CD32;
 }
-#home, #men, #women, #kids {
+#home, #ao, #quan, #giay {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;

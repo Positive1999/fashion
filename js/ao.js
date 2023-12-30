@@ -63,13 +63,13 @@
 //   });
 
 
-fetch('data/men.json')
+fetch('data/ao.json')
   .then(response => response.json())
   .then(data => {
-    const listPro = document.getElementById('men');
+    const listPro = document.getElementById('ao');
     listPro.classList.add('container');
 
-    data.men.forEach(e => {
+    data.ao.forEach(e => {
       const listProducts = document.createElement('div');
       listProducts.classList.add('product', 'col-xs-12', 'col-sm-6', 'col-md-4', 'col-lg-3');
 
