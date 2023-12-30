@@ -97,7 +97,7 @@ cartButtons.forEach((cartButton, index) => {
   updateQuantitycartCounter();
 
   cartButton.addEventListener('click', function() {
-    const selectedProduct = data.women[index];
+    const selectedProduct = data.quan[index];
 
     if (cartButton.classList.contains('clicked')) {
       cartButton.classList.remove('clicked');

@@ -32,7 +32,7 @@ cartButtons.forEach((cartButton, index) => {
   updateQuantitycartCounter();
 
   cartButton.addEventListener('click', function() {
-    const selectedProduct = data.kids[index];
+    const selectedProduct = data.giay[index];
 
     if (cartButton.classList.contains('clicked')) {
       cartButton.classList.remove('clicked');

@@ -4,64 +4,29 @@
             "sale" : "-0%",
             "name": "G12 - Geleli",
             "image": "data/images/giay/nam/G12-geleli.jpg",
-            "price": "150.000 đ",
-            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
-        },
-        {
-            "sale" : "-10%",
-            "name": "Áo khoác da",
-            "image": "data/images/men/6.jpg",
-            "price": "500.000 đ",
-            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
-        },
-        {
-            "sale" : "-10%",
-            "name": "Quần tây",
-            "image": "data/images/men/7.jpg",
             "price": "300.000 đ",
             "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
         },
         {
-            "sale" : "-10%",
-            "name": "Áo khoác nỉ xám",
-            "image": "data/images/women/3.jpg",
-            "price": "500.000 đ",
+            "sale" : "-0%",
+            "name": "G22 - Geleli",
+            "image": "data/images/giay/nam/G22-geleli.jpg",
+            "price": "340.000 đ",
             "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
         },
         {
-            "sale" : "-10%",
-            "name": "Váy xòe trắng",
-            "image": "data/images/women/5.jpg",
+            "sale" : "-0%",
+            "name": "G21 - Geleli",
+            "image": "data/images/giay/nam/G21-geleli.jpg",
             "price": "300.000 đ",
             "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
         },
         {
-            "sale": "-6%",
-            "name": "Áo thun trắng",
-            "image": "data/images/women/1.jpg",
-            "des": "Vải chất lượng , 100% như ảnh",
-            "price": "300.000 đ"
-        },
-        {
-            "sale" : "-10%",
-            "name": "Áo khoác nỉ xám",
-            "image": "data/images/kids/1.jpg",
-            "price":"300.000 đ",
+            "sale" : "-0%",
+            "name": "Chealsea boots CB547",
+            "image": "data/images/giay/nam/chealseaBoots.jpg",
+            "price": "550.000 đ",
             "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
-        },
-        {
-            "sale" : "-10%",
-            "name": "Váy xòe trắng",
-            "image": "data/images/kids/2.jpg",
-            "price": "300.000 đ",
-            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
-        },
-        {
-            "sale": "-6%",
-            "name": "Áo thun trắng",
-            "image": "data/images/kids/3.jpg",
-            "des": "Vải chất lượng , 100% như ảnh",
-            "price": "300.000 đ"
         }
     ]
 }
