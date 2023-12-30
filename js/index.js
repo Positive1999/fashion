@@ -75,12 +75,12 @@ if (cartButton) {
   cartButton.addEventListener('click', function () {
     // Xử lý sự kiện khi nhấp vào nút "Giỏ hàng"
     cartItems.forEach(item => {
-      const productIndex = data.home.findIndex(
+      const productIndex = data.bestSelling.findIndex(
         product => product.id === item.id
       );
 
       if (productIndex !== -1) {
-        data.home[productIndex].quantity = item.quantity || 0;
+        data.bestSelling[productIndex].quantity = item.quantity || 0;
       }
     });
 
