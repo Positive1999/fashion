@@ -1,10 +1,10 @@
-fetch('data/home.json')
+fetch('data/bestSelling.json')
   .then(response => response.json())
   .then(data => {
-    const listPro = document.getElementById('home');
+    const listPro = document.getElementById('bestSelling');
     listPro.classList.add('container');
 
-    data.home.forEach(e => {
+    data.bestSelling.forEach(e => {
       const listProducts = document.createElement('div');
       listProducts.classList.add('product', 'col-xs-12', 'col-sm-6', 'col-md-4', 'col-lg-3');
 
@@ -32,7 +32,7 @@ cartButtons.forEach((cartButton, index) => {
   updateQuantitycartCounter();
 
   cartButton.addEventListener('click', function() {
-    const selectedProduct = data.home[index];
+    const selectedProduct = data.bestSelling[index];
 
     if (cartButton.classList.contains('clicked')) {
       cartButton.classList.remove('clicked');
@@ -108,3 +108,13 @@ if (quantityCart) {
 }
    
   });
+  // best-selling
+
+
+
+
+
+
+
+
+  

@@ -2,6 +2,20 @@
     "ao": [
         {
             "sale" : "-0%",
+            "name": "ÁO SƠ MI TRẮNG",
+            "image": "data/images/ao/soMi/SMT.jpg",
+            "price": "199.000 đ",
+            "des": "Tên sản phẩm: Áo Sơ Mi Nam Dài Tay Dáng Slim - Men's Style Thương hiệu: Men's Style Màu sắc: Trắng tinh Size: M, L, XL, 2XL, 3XL Xuất xứ: Việt Nam"
+        },
+        {
+            "sale" : "-0%",
+            "name": "ÁO SƠ MI XÁM",
+            "image": "data/images/ao/soMi/SMX.jpg",
+            "price": "199.000 đ",
+            "des": "Tên sản phẩm: Áo Sơ Mi Nam Dài Tay Dáng Slim - Men's Style Thương hiệu: Men's Style Màu sắc:xám Size: M, L, XL, 2XL, 3XL Xuất xứ: Việt Nam"
+        },
+        {
+            "sale" : "-0%",
             "name": "ÁO KHOÁC NHUNG - AKN02",
             "image": "data/images/ao/aoKhoac/AKN1.jpg",
             "price": "299.000 đ",
@@ -20,20 +34,6 @@
             "image": "data/images/ao/aoKhoac/AKN3.jpg",
             "price": "299.000 đ",
             "des": "ÁO KHOÁC NAM NHUNG TĂM THỜI TRANG AKN02 - PHL Đường may tỉ mỉ tinh tế, có túi trong Áo có nút phong cách thời trang Kiểu dáng rộng vừa thoải mái khi mặc, đơn giản dễ phối đồ màu sắc : đen , nâu, xanh rêu size: M(48-55), L(56-65) , XL (65-70) Thích hợp cho mọi lứa tuổi Xuất xứ: Việt Nam CHÍNH SÁCH. Là khách hàng bạn sẽ được: Cam kết chất lượng và mẫu mã sản phẩm giống với hình ảnh."
-        },
-        {
-            "sale" : "-0%",
-            "name": "ÁO SƠ MI TRẮNG",
-            "image": "data/images/ao/soMi/SMT.jpg",
-            "price": "199.000 đ",
-            "des": "Tên sản phẩm: Áo Sơ Mi Nam Dài Tay Dáng Slim - Men's Style Thương hiệu: Men's Style Màu sắc: Trắng tinh Size: M, L, XL, 2XL, 3XL Xuất xứ: Việt Nam"
-        },
-        {
-            "sale" : "-0%",
-            "name": "ÁO SƠ MI XÁM",
-            "image": "data/images/ao/soMi/SMX.jpg",
-            "price": "199.000 đ",
-            "des": "Tên sản phẩm: Áo Sơ Mi Nam Dài Tay Dáng Slim - Men's Style Thương hiệu: Men's Style Màu sắc:xám Size: M, L, XL, 2XL, 3XL Xuất xứ: Việt Nam"
         },
         {
             "sale" : "-0%",
