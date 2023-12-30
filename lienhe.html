@@ -7,7 +7,7 @@
         #body {
             width: 100%;
             height: 100vh;
-            position: relative; 
+            position: relative;
             font-family: Arial, sans-serif;
         }
 
@@ -28,14 +28,32 @@
             font-family: Arial, sans-serif;
         }
 
+        a.back {
+            display: inline-block;
+            background: #fff;
+            padding: 10px 20px;
+            margin-top: 20px;
+            margin-left: 20px;
+            text-decoration: none;
+            color: #000;
+            border-radius: 30px;
+            border: 2px solid #000;
+            transition: background-color 0.3s, color 0.3s;
+        }
 
+        a.back:hover {
+            background-color: #000;
+            color: #fff;
+        }
 
         .container {
             z-index: 99;
             width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            height: 100vh;
+            position: fixed;
+            top: 50%;
+            left: 10%;
+            transform: translateY(-20%);
         }
 
         form {
@@ -48,7 +66,7 @@
             text-align: center;
             font-size: 35px;
             z-index: 99;
-           color: #ffffff;
+            color: #ffffff;
         }
 
         .form-group {
@@ -89,7 +107,7 @@
 </head>
 
 <body id="body">
-    <a href="index.html">Trang chủ</a>
+    <a class="back" href="index.html">Trang chủ</a>
     <h2 class="title">Contact Us</h2>
     <div class="container">
         <form>
@@ -105,9 +123,25 @@
                 <label for="message">Message:</label>
                 <textarea id="message" name="message" rows="5" required></textarea>
             </div>
-            <button type="submit">Send Message</button>
+            <button type="submit" onclick="submit__contact()">Send Message</button>
         </form>
     </div>
+
+    <script>
+        function submit__contact() {
+            var nameCustomer = document.getElementById('name').value;
+            var emailCustomer = document.getElementById('email').value;
+            var mesCustomer = document.getElementById('message').value;
+
+            var shopEmail = "hieutran11525@gmail.com";
+            var subject = "LIÊN HỆ CỦA KHÁCH HÀNG";
+
+            var body = "Tên:" + nameCustomer +"\n" + "Email:" + emailCustomer +"\n" +"Messenger:" + mesCustomer;
+
+            var mailtoLink = "mailto:" + shopEmail + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+            window.location.href = mailtoLink;
+        }
+    </script>
 </body>
 
 </html>
