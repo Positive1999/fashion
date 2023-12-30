@@ -5,7 +5,28 @@
             "name": "Quần âu caro",
             "image": "data/images/quan/quanAu/QA3.jpg",
             "price": "199.000 đ",
-            "des": "Vải đẹp , chất lượng tốt ! cam kết đổi trả 100% khi không đúng như ảnh."
+            "des": "Quần âu nam kẻ sọc chất vải cotton cao cấp , chuẩn thiết kế hàn quốc, cực tôn dáng, lịch sự, trẻ trung. Đây là sản phẩm CHÍNH HÃNG 100%. Cam kết DỊCH VỤ và CHẤT LƯỢNG . Size: 28-34"
+        },
+        {
+            "sale" : "-0%",
+            "name": "Quần âu 2 khuy cao cấp AK2D",
+            "image": "data/images/quan/quanAu/QA-AK2D.jpg",
+            "price": "349.000 đ",
+            "des": "Tên sản phẩm: Quần Âu Nam Cạp Cao 2 Khuy Cao Cấp Có Đai Chỉnh Eo AK2D - KP Store Thương hiệu: KP Store Chất liệu: Chất chéo Line hàn tăm lì Màu sắc: Đen, Size: 28, 29, 30, 31, 32, 33, 34, 35, 36 Xuất xứ: Việt Nam"
+        },
+        {
+            "sale" : "-0%",
+            "name": "Quần jean JT01",
+            "image": "data/images/quan/quanBo/JT01.png",
+            "price": "299.000 đ",
+            "des": "Tên Sản phẩm: Quần Jeans Nam Menswear Ống Đứng Slimfit Vải Bò Jt01 - Tuto5 Thương hiệu: Tuto5 Chất liệu: Vải cao cấp co dãn Màu sắc: Đen, xanh Size: 28, 29, 30, 31, 32, 33, 34 Xuất xứ: Việt Nam"
+        },
+        {
+            "sale" : "-0%",
+            "name": "Quần jean cotton",
+            "image": "data/images/quan/quanBo/jeanCotton.jpg",
+            "price": "196.000 đ",
+            "des": "Tên sản phẩm: Quần Jean Nam Ống Suông Vải Jean Cotton - Lê Phương Boutique Thương hiệu: Lê Phương Boutique Chất liệu : Vải jean cotton Màu sắc: Xanh đen đậm Size : 28, 29, 30, 31, 32, 34, 36 Xuất xứ: Việt Nam"
         }
        
     ]
