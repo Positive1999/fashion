@@ -69,6 +69,20 @@
             "image": "data/images/giay/thethao/sport1.jpg",
             "price": "280.000 đ",
             "des": "Tên sản phẩm: Giày Thể Thao Nam, Nữ Ny Sport Fashion - Haanh Thương hiệu: Haanh Chất liệu: Da cao cấp Màu sắc: Trắng, Kem Size: 35, 36, 37, 38, 39, 40, 41, 42, 43 Xuất xứ: Việt Nam."
+        },
+        {
+            "sale" : "-0%",
+            "name": "GMV - Geleli",
+            "image": "data/images/giay/luoi/GMV-geleli.jpg",
+            "price": "300.000 đ",
+            "des": "Tên sản phẩm: Giày Nam Da Bò Vân Nổi GMV - Geleli Thương hiệu: Geleli Chất liệu giày: Da bò thật Chất liệu đế giày: Cao su đúc nguyên khối Size: 38, 39, 40, 41, 42, 43, 44 Bảo hành: 12 tháng Xuất xứ: Việt Nam"
+        },
+        {
+            "sale" : "-0%",
+            "name": "G12 - Geleli",
+            "image": "data/images/giay/day/G12-geleli.jpg",
+            "price": "300.000 đ",
+            "des": "Tên sản phẩm: Giày Buộc Dây Nam G12 - Geleli Thương hiệu: Geleli Chất liệu giày: Da bò thật Chất liệu đế giày: Cao su đúc nguyên khối. Đế khâu chắc chắn, bền đẹp, chống trơn trượt tốt Màu sắc: Đen Size: 38, 39, 40, 41, 42, 43 Xuất xứ: Việt Nam"
         }
     ]
 }

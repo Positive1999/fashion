@@ -34,7 +34,29 @@
             "image": "data/images/quan/quanBo/jeanCotton.jpg",
             "price": "196.000 đ",
             "des": "Tên sản phẩm: Quần Jean Nam Ống Suông Vải Jean Cotton - Lê Phương Boutique Thương hiệu: Lê Phương Boutique Chất liệu : Vải jean cotton Màu sắc: Xanh đen đậm Size : 28, 29, 30, 31, 32, 34, 36 Xuất xứ: Việt Nam"
+        },
+        {
+            "sale" : "-0%",
+            "name": "Quần thun P098",
+            "image": "data/images/quan/quanCoc/P098t.jpg",
+            "price": "146.000 đ",
+            "des": "THÔNG TIN SẢN PHẨM Chất liệu: Thun lạnh thể thao – co giãn 4 chiều cao cấp Màu sắc: Trắng, Size M: Dành cho nam dưới 63kg Size L: Dành cho nam từ 63kg đến 73kg Size XL: Dành cho nam từ 73kg đến 83kg"
+        },
+        {
+            "sale" : "-0%",
+            "name": "Quần thun P098",
+            "image": "data/images/quan/quanCoc/P098d.jpg",
+            "price": "146.000 đ",
+            "des": "THÔNG TIN SẢN PHẨM Chất liệu: Thun lạnh thể thao – co giãn 4 chiều cao cấp Màu sắc: Đen, Size M: Dành cho nam dưới 63kg Size L: Dành cho nam từ 63kg đến 73kg Size XL: Dành cho nam từ 73kg đến 83kg"
+        },
+        {
+            "sale" : "-0%",
+            "name": "Quần thun P098",
+            "image": "data/images/quan/quanCoc/P098x.jpg",
+            "price": "146.000 đ",
+            "des": "THÔNG TIN SẢN PHẨM Chất liệu: Thun lạnh thể thao – co giãn 4 chiều cao cấp Màu sắc: Xanh than, Size M: Dành cho nam dưới 63kg Size L: Dành cho nam từ 63kg đến 73kg Size XL: Dành cho nam từ 73kg đến 83kg"
         }
+        
        
     ]
 }
