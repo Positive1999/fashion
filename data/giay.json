@@ -9,6 +9,21 @@
         },
         {
             "sale" : "-0%",
+            "name": "GIÀY MIB TRẮNG PHỐI ĐEN",
+            "image": "data/images/giay/thethao/MIB-d.jpg",
+            "price": "287.000 đ",
+            "des": "Tên sản phẩm: Giày Thể Thao Nam Nữ MIB - Haanh Thương hiệu: Haanh Chất liệu: Da nhập cao cấp Màu sắc: Trắng phối đen, Size: 35, 36, 37, 38, 39, 40, 41, 42, 43 Xuất xứ: Việt Nam"
+        },
+        {
+            "sale" : "-0%",
+            "name": "GIÀY MIB TRẮNG PHỐI XANH",
+            "image": "data/images/giay/thethao/MIB-x.jpg",
+            "price": "287.000 đ",
+            "des": "Tên sản phẩm: Giày Thể Thao Nam Nữ MIB - Haanh Thương hiệu: Haanh Chất liệu: Da nhập cao cấp Màu sắc: Trắng phối xanh, Size: 35, 36, 37, 38, 39, 40, 41, 42, 43 Xuất xứ: Việt Nam"
+        },
+      
+        {
+            "sale" : "-0%",
             "name": "G12 - Geleli",
             "image": "data/images/giay/day/G12-geleli.jpg",
             "price": "300.000 đ",

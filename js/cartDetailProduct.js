@@ -19,7 +19,7 @@ function renderCartItems() {
       productImage.classList.add("col-sx-12", "col-sm-12", "col-md-6", "col-lg-6");
 
       var infoProduct = document.createElement('div');
-      infoProduct.classList.add("col-sx-12", "col-sm-12", "col-md-6", "col-lg-6");
+      infoProduct.classList.add("col-sx-12", "col-sm-12", "col-md-6", "col-lg-6", "infoProduct");
 
 
       var productDes = document.createElement("i");
@@ -168,9 +168,9 @@ function notifyShop() {
     return product.textContent;
   });
 
-  var body = "***Sản phẩm bạn đã chọn: \n";
+  var body = "***Sản phẩm bạn đã chọn: \n" + productNames.join('\n') + "\n" + formName.value;
 
-  body += productNames.join('\n') + "\n";
+  // body = productNames.join('\n') + "\n" ;
 
   var mailtoLink = "mailto:" + shopEmail + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
   window.location.href = mailtoLink;
